@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.MainUserCard{
+  background-color: beige;
+  width: 50%;
+  margin: 5% 25%;
+  padding: 3% 0;
+  border: solid black 5px;
+  border-radius: 50px;
+}
+
